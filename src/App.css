@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.blogInput{
+    background-color: #fff; 
+    border:6px solid white !important;
+    border-radius:5px !important;
+    margin:0.5rem 3.0rem !important;
+    width:400px !important;
+
+}
+.icon-btn{
+
+    
+    width:30px ; 
+    height:30px ;
+    border-radius:10px ;
+ }
+.icon-btn:hover{
+   box-shadow: 0 0 20px white;
+   cursor: pointer;
+
+}
+.icon-about{
+    width:100px ; 
+    height:100px ;
+    border-radius:20px ;
+}
+.icon-about:hover{
+    box-shadow: 0 0 30px white;
+    cursor: pointer;
+}
+.button {
+
+    border:none;
+    background:#333;
+    color: grey;
+  }
+  
+  .button:hover {
+ 
+    border:none;
+    color: darkcyan !important;
+    text-decoration:none;
+
+
+
+
+  }
+  
+  .button:focus {
+    background:gray;
+  }
